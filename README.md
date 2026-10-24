@@ -1,10 +1,15 @@
 # 💾 TaskManager_Sim_95.exe (PC Bloatware Disaster)
 
-A retro **Windows 95-themed simulation game** built with Python and Streamlit. Manage your system resources, fight relentless bloatware, upgrade your cooling hardware, and survive CPU thermal throttling and RAM overloads! this is a game where you play as a user in a computer , deleting bloatware and freeing up resources . there are random events that could tank your performance and in spite of all of this you should keep the computer under control .if not the computer could crash
+A retro **Windows 95-themed simulation game** built with Python and Streamlit. Manage your system resources, fight relentless bloatware, upgrade your cooling hardware, and survive CPU thermal throttling and RAM overloads! this is a game where you play as a user in a computer , deleting bloatware and freeing up resources . there are random events that could tank your performance and in spite of all of this you should keep the computer under control .if not the computer could crash.if you want to play this on the web then use this link 
 
+link = the-pc-bloatware-disaster-eftvhcxicnkrjwwtnqqsne
+
+if you want to run it locally then follow the steps below 
 ## 🎮 Gameplay Overview
 
 Your PC is infected with unkillable bloatware applications (`Cortana`, `3 mil Chrome tabs`, `FH3`, etc.). Every action or task spawn pushes your CPU temperature and RAM utilization closer to catastrophic failure (100°C or 100% RAM usage).
+<img width="1365" height="626" alt="image" src="https://github.com/user-attachments/assets/f0d85864-f26b-42ac-a24f-f994ff37ef38" />
+
 
 Earn **Crash Coins (CC)** by handling tasks and spending them in **The Shop** on PC hardware upgrades to keep your rig alive.
 
@@ -35,6 +40,8 @@ Earn **Crash Coins (CC)** by handling tasks and spending them in **The Shop** on
 * **Dynamic Random Events:** Experience random OS updates, adware spikes, or sudden fan failures.
 
 * **Difficulty Environments:** Choose between *New Clean Laptop*, *Family PC*, and *Thermal Throttling Nightmare*.
+* <img width="1365" height="632" alt="image" src="https://github.com/user-attachments/assets/4e007b34-7e1f-406c-9adb-372e463240ed" />
+
 
 ## 🚀 Quick Start & Installation
 
@@ -46,14 +53,17 @@ Earn **Crash Coins (CC)** by handling tasks and spending them in **The Shop** on
 
 ### Installation Steps
 
-1. **Install dependencies:**
+1.**Install the file:**
+  install the file from the github repo
+
+2. **Install dependencies:**
 
    ```
    pip install streamlit
    
    ```
 
-2. **Run the Streamlit application:**
+3. **Run the Streamlit application:**
 
    ```
    streamlit run the_game.py
