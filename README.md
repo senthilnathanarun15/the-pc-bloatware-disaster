@@ -2,7 +2,7 @@
 
 A retro **Windows 95-themed simulation game** built with Python and Streamlit. Manage your system resources, fight relentless bloatware, upgrade your cooling hardware, and survive CPU thermal throttling and RAM overloads! this is a game where you play as a user in a computer , deleting bloatware and freeing up resources . there are random events that could tank your performance and in spite of all of this you should keep the computer under control .if not the computer could crash.if you want to play this on the web then use this link 
 
-link = the-pc-bloatware-disaster-eftvhcxicnkrjwwtnqqsne
+link = [the-pc-bloatware-disaster-eftvhcxicnkrjwwtnqqsne](https://the-pc-bloatware-disaster-eftvhcxicnkrjwwtnqqsne.streamlit.app/)
 
 if you want to run it locally then follow the steps below 
 ## 🎮 Gameplay Overview
