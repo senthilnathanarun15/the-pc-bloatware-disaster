@@ -1,6 +1,6 @@
 # 💾 TaskManager_Sim_95.exe (PC Bloatware Disaster)
 
-A retro **Windows 95-themed simulation game** built with Python and Streamlit. Manage your system resources, fight relentless bloatware, upgrade your cooling hardware, and survive CPU thermal throttling and RAM overloads!
+A retro **Windows 95-themed simulation game** built with Python and Streamlit. Manage your system resources, fight relentless bloatware, upgrade your cooling hardware, and survive CPU thermal throttling and RAM overloads! this is a game where you play as a user in a computer , deleting bloatware and freeing up resources . there are random events that could tank your performance and in spite of all of this you should keep the computer under control .if not the computer could crash
 
 ## 🎮 Gameplay Overview
 
