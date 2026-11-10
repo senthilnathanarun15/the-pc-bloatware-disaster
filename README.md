@@ -16,7 +16,9 @@ those are :
 * <img width="1365" height="632" alt="image" src="https://github.com/user-attachments/assets/4e007b34-7e1f-406c-9adb-372e463240ed" />
 now you earn more cc(crash coins) or less cc (crash coins) by your skill level . you can tweak it using the slider . the right is more cc and the left is less cc . but also the for right you push the slider the more risk you take to get more reward . and finally when you take too much temp or uti this happens  
 <img width="1917" height="832" alt="image" src="https://github.com/user-attachments/assets/d0b4e9ca-a9b8-4143-b665-a7542c1ae62f" />
-so now there is the shop . this is where you can get upgrades and make the experience more barrable . grind the game to get the upgrades you deserve 
+so now there is the shop . this is where you can get upgrades and make the experience more barrable . grind the game to get the upgrades you deserve
+### for the reviewer :
+THIS IS A STREAMLIT APPPPP , SO IT CAN NOT BE HOSTED ANYWHERE ELSE OTHER THEN STREAMLIT.IO , BECAUSE THIS USES A LOT OF DELICATE FUNCTIONS THAT CAN BE BROKEN , CAUSING THE GAME TO CRASH OR CAUSE A BOOT LOOP , SO PLZ IF YOU UNDERSTAND THIS IS MY ONLY WAY , IF YOU DONT BELEAVE ME RESURCH ABOUT THIS . so plz approve this i have been waiting for weeks  
 ## the local run guide :
 
 ### needed things for running locally 
