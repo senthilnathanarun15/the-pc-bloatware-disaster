@@ -1,57 +1,31 @@
 # 💾 TaskManager_Sim_95.exe (PC Bloatware Disaster)
 
-A retro **Windows 95-themed simulation game** built with Python and Streamlit. Manage your system resources, fight relentless bloatware, upgrade your cooling hardware, and survive CPU thermal throttling and RAM overloads! this is a game where you play as a user in a computer , deleting bloatware and freeing up resources . there are random events that could tank your performance and in spite of all of this you should keep the computer under control .if not the computer could crash.if you want to play this on the web then use this link 
+hiii , so basically this is a game where you control a computer that is actively trying to destroy itself .you are here to stop it by deleting bloatware. there are random events that could tank your performance and in spite of all of this you should keep the computer under control .if not the computer could crash .if you want to play this on the web then use the link below
 
 link = [the-pc-bloatware-disaster-eftvhcxicnkrjwwtnqqsne](https://the-pc-bloatware-disaster-eftvhcxicnkrjwwtnqqsne.streamlit.app/)
 
-if you want to run it locally then follow the steps below 
-## 🎮 Gameplay Overview
+if you want to run it locally then follow the steps below at the end of the guide
 
-Your PC is infected with unkillable bloatware applications (`Cortana`, `3 mil Chrome tabs`, `FH3`, etc.). Every action or task spawn pushes your CPU temperature and RAM utilization closer to catastrophic failure (100°C or 100% RAM usage).
+Your PC is infected with killable bloatware applications (`Cortana`, `3 mil Chrome tabs`, `FH3`, etc.). Every action or task spawn pushes your CPU temperature and RAM utilization closer to madness
 <img width="1365" height="626" alt="image" src="https://github.com/user-attachments/assets/f0d85864-f26b-42ac-a24f-f994ff37ef38" />
 
+to prevent that there are some ways tokill an app.
+those are :
+ force kill, end task , do nothing , and alas the PowerShell optimization command which requires 10 cc (the in game currency crash coins . cool name right?)  
 
-Earn **Crash Coins (CC)** by handling tasks and spending them in **The Shop** on PC hardware upgrades to keep your rig alive.
-
-## ✨ Features
-
-* **Retro Windows 95 Visuals:** Custom CSS styling with 3D bevelled buttons, teal desktop background (`#008080`), classic title bars, and retro warning dialogs.
-
-* **Dynamic Resource Management:** Real-time tracking of CPU temperature and RAM utilization.
-
-* **Multiple Task Resolution Methods:**
-
-  * `Force Kill (Task Manager)`: High CPU temp reduction, minimal RAM relief.
-
-  * `End Task (Normal)`: High RAM relief, minimal CPU temp reduction.
-
-  * `Use PowerShell (10 CC)`: Massively cools CPU and frees RAM at the cost of 10 Crash Coins.
-
-  * `Wait, and do nothing`: Lets time pass while spawning more bloatware.
-
-* **Hardware Upgrade Shop:**
-
-  * **Thermal Paste (55 CC):** Reduces CPU temperature buildup per app run.
-
-  * **Dual Fans (80 CC):** Passively mitigates both CPU heat and RAM load.
-
-  * **Liquid Nitrogen Cooling (200 CC):** Emergency one-time use item that slashes CPU temp and RAM usage by 40 units.
-
-* **Dynamic Random Events:** Experience random OS updates, adware spikes, or sudden fan failures.
-
-* **Difficulty Environments:** Choose between *New Clean Laptop*, *Family PC*, and *Thermal Throttling Nightmare*.
 * <img width="1365" height="632" alt="image" src="https://github.com/user-attachments/assets/4e007b34-7e1f-406c-9adb-372e463240ed" />
+now you earn more cc(crash coins) or less cc (crash coins) by your skill level . you can tweak it using the slider . the right is more cc and the left is less cc . but also the for right you push the slider the more risk you take to get more reward . and finally when you take too much temp or uti this happens  
+<img width="1917" height="832" alt="image" src="https://github.com/user-attachments/assets/d0b4e9ca-a9b8-4143-b665-a7542c1ae62f" />
+so now there is the shop . this is where you can get upgrades and make the experience more barrable . grind the game to get the upgrades you deserve 
+## the local run guide :
 
-
-## 🚀 Quick Start & Installation
-
-### Prerequisites
+### needed things for running locally 
 
 * Python 3.8 or higher
 
 * Streamlit
 
-### Installation Steps
+### Installation to run the game (if you are doing this , damm you got some dedication )
 
 1.**Install the file:**
   install the file from the github repo
@@ -70,20 +44,3 @@ Earn **Crash Coins (CC)** by handling tasks and spending them in **The Shop** on
    
    ```
 
-## 🕹️ Controls & Rules
-
-1. Launch the game using the **"start the game"** button to spawn active bloatware.
-
-2. Select resolution tactics for each running application.
-
-3. Keep an eye on your **CPU Temp** (<100°C) and **RAM Utilization** (<100%).
-
-4. If your system crashes, spend **15 CC** to repair parts or initiate a **Hard Reset** to start fresh.
-
-## 🛠️ Built With
-
-* [**Streamlit**](https://streamlit.io/)**:** Interactive Web Application Framework
-
-* **Python:** Game logic and session state management
-
-* **Custom CSS:** Authentic Windows 95 UI styling
