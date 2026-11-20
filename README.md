@@ -18,7 +18,7 @@ now you earn more cc(crash coins) or less cc (crash coins) by your skill level .
 <img width="1917" height="832" alt="image" src="https://github.com/user-attachments/assets/d0b4e9ca-a9b8-4143-b665-a7542c1ae62f" />
 so now there is the shop . this is where you can get upgrades and make the experience more barrable . grind the game to get the upgrades you deserve
 ### for the reviewer :
-THIS IS A STREAMLIT APPPPP , SO IT CAN NOT BE HOSTED ANYWHERE ELSE OTHER THEN STREAMLIT.IO , BECAUSE THIS USES A LOT OF DELICATE FUNCTIONS THAT CAN BE BROKEN , CAUSING THE GAME TO CRASH OR CAUSE A BOOT LOOP , SO PLZ IF YOU UNDERSTAND THIS IS MY ONLY WAY , IF YOU DONT BELEAVE ME RESURCH ABOUT THIS . so plz approve this i have been waiting for weeks  
+hi , I accidentally left the old Streamlit link in the demo field when reshipping—I have already requested my Hack Club Nest server and am waiting for approval so I can move the app there and keep it online 24/7. I will update the link as soon as Nest provisions my account!" so if you can plz approve this approve it or can you give me an another reship .  i have been waiting for weeks  
 ## the local run guide :
 
 ### needed things for running locally 
