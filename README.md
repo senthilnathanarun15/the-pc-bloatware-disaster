@@ -17,8 +17,10 @@ those are :
 now you earn more cc(crash coins) or less cc (crash coins) by your skill level . you can tweak it using the slider . the right is more cc and the left is less cc . but also the for right you push the slider the more risk you take to get more reward . and finally when you take too much temp or uti this happens  
 <img width="1917" height="832" alt="image" src="https://github.com/user-attachments/assets/d0b4e9ca-a9b8-4143-b665-a7542c1ae62f" />
 so now there is the shop . this is where you can get upgrades and make the experience more barrable . grind the game to get the upgrades you deserve
-### for the reviewer :
-Hi! I accidentally left the old Streamlit link in the demo field when reshipping—I have already requested my Hack Club Nest server and am waiting for approval so I can move the app there and keep it online 24/7. I will update the link as soon as Nest provisions my account! So if you can, please approve this or let me update the link once Nest is ready. Thanks! 
+## Hosting Note
+Right now the demo link points to Streamlit Community Cloud, which can sleep when idle. I have already applied for a Hack Club Nest server (username: `senthil-nathan-arun`, currently pending admin review) and will move the app there so it stays online 24/7 as soon as my container is approved. So if you can approve it plz do or plz give me just like a min to change the demo link
+<img width="1917" height="917" alt="the nest png" src="https://github.com/user-attachments/assets/1cf0601b-f797-49f9-b924-4c1e57d5e236" />
+
 ## the local run guide :
 
 ### needed things for running locally 
