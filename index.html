@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <title>PC_BLOATWARE_DISASTER_WIN_95_SIM.exe</title>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/@stlite/browser@0.76.0/build/stlite.css"
+    />
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module">
+      import { mount } from "https://cdn.jsdelivr.net/npm/@stlite/browser@0.76.0/build/stlite.js";
+
+      mount(
+        {
+          entrypoint: "the_game.py",
+          files: {
+            "the_game.py": `import random
+
+import streamlit as st
+from streamlit.elements.widgets import button
+
+st.markdown(
+    """
+    <style>
+    .stApp{
+    background-color:#008080;
+    font-family:'MS Sans Serif',Arial,sans-serif;
+        }
+    div.stButton > button , [data-testid = "stButton"] button{
+     background-color:#c0c0c0 !important;
+     background-image:none !important;
+     color: #000000 !important;
+     border: 2px solid !important;
+     border-color: #ffffff #808080 #808080 #ffffff !important;
+     box-shadow: inset 1px 1px #dfdfdf , inset -1px -1px #0a0a0a !important;
+     border-radius: 0px !important;
+     font-weight:bold !important;
+    }
+    div.stButton > button:active, [data-testid="stButton"] button:active,
+    div.stButton > button:focus, [data-testid="stButton"] button:focus {
+    border-color: #808080 #ffffff #ffffff #808080 !important;
+    box-shadow: inset 1px 1px #0a0a0a , inset -1px -1px #dfdfdf !important;
+    background-color:#b0b0b0 !important;
+    background-image: none !important;
+    color: #000000 !important;
+    }
+    [data-testid="stAlert"], [data-testid="stNotification"], .stAlert, .stWarning, .stInfo, div[data-baseweb="notification"],
+    [data-testid="stAlert"] > div, [data-testid="stNotification"] > div, .stWarning > div, .stInfo > div, div[data-baseweb="notification"] > div {
+    background-color: #ff8c00 !important;
+    background-image: none !important;
+    color: #000000 !important;
+    border: 2px solid #000000 !important;
+    border-color: #808080 #ffffff #ffffff #808080;
+    box-shadow: inset 1px 1px #ffffff, inset -2px -2px #808080 !important;
+    border-radius: 0px !important;
+    }
+    [data-testid="st.Alert"]*, [data-testid="stNotification"] *, .stAlert *, .stWarning *, .stInfo *, div[data-baseweb="notification"] * {
+        color: #000000 !important;
+        background-color: transparent !important;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True,
+)
+st.markdown(
+    """
+    <div style="background-color: #000080; color: white; padding: 6px 10px; font-weight: bold; font-family: monospace; display: flex; justify-content: space-between; align-items: center; border: 2px solid #ffffff; box-shadow: inset 1px 1px #dfdfdf;">
+        <span>💾 PC_BLOATWARE_DISASTER_WIN_95_SIM.exe</span>
+        <span>[_] [□] [X]</span>
+    </div>
+    """,
+    unsafe_allow_html=True,
+)
+if "cpu_temp" not in st.session_state:
