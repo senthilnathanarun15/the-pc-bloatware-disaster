@@ -2,7 +2,9 @@
 
 hiii , so basically this is a game where you control a computer that is actively trying to destroy itself .you are here to stop it by deleting bloatware. there are random events that could tank your performance and in spite of all of this you should keep the computer under control .if not the computer could crash .if you want to play this on the web then use the link below
 
-link = [the-pc-bloatware-disaster-eftvhcxicnkrjwwtnqqsne](https://the-pc-bloatware-disaster-eftvhcxicnkrjwwtnqqsne.streamlit.app/)
+link = [https://senthilnathanarun15.github.io/the-pc-bloatware-disaster/]
+
+backup link = [the-pc-bloatware-disaster-eftvhcxicnkrjwwtnqqsne](https://the-pc-bloatware-disaster-eftvhcxicnkrjwwtnqqsne.streamlit.app/)
 
 if you want to run it locally then follow the steps below at the end of the guide
 
@@ -18,7 +20,7 @@ now you earn more cc(crash coins) or less cc (crash coins) by your skill level .
 <img width="1917" height="832" alt="image" src="https://github.com/user-attachments/assets/d0b4e9ca-a9b8-4143-b665-a7542c1ae62f" />
 so now there is the shop . this is where you can get upgrades and make the experience more barrable . grind the game to get the upgrades you deserve
 ## Hosting Note
-Right now the demo link points to Streamlit Community Cloud, which can sleep when idle. I have already applied for a Hack Club Nest server (username: `senthil-nathan-arun`, currently pending admin review) and will move the app there so it stays online 24/7 as soon as my container is approved. So if you can approve it plz do or plz give me just like a min to change the demo link
+Right now the demo link points to github pages , and its kinda unreliable and takes kinda long to load , but there is also a backup link which always works but sleeps after incaptivity . try the game and enjoy it 
 <img width="1917" height="917" alt="the nest png" src="https://github.com/user-attachments/assets/1cf0601b-f797-49f9-b924-4c1e57d5e236" />
 
 ## the local run guide :
