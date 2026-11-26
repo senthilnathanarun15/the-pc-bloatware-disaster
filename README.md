@@ -20,7 +20,7 @@ now you earn more cc(crash coins) or less cc (crash coins) by your skill level .
 <img width="1917" height="832" alt="image" src="https://github.com/user-attachments/assets/d0b4e9ca-a9b8-4143-b665-a7542c1ae62f" />
 so now there is the shop . this is where you can get upgrades and make the experience more barrable . grind the game to get the upgrades you deserve
 ## Hosting Note
-Right now the demo link points to github pages , and its kinda unreliable and takes kinda long to load , but there is also a backup link which always works but sleeps after incaptivity . try the game and enjoy it 
+Right now the demo link points to github pages , and its kinda unreliable and takes kinda long to load , but there is also a backup link which always works but sleeps after incaptivity . try the game and enjoy it . i am waiting on my hq nest approval , after it gets approved i will shift this over to nest , so untill then plz bare github pages 
 <img width="1917" height="917" alt="the nest png" src="https://github.com/user-attachments/assets/1cf0601b-f797-49f9-b924-4c1e57d5e236" />
 
 ## the local run guide :
